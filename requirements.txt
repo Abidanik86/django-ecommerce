@@ -1,0 +1,18 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+django-environ
+djangorestframework-simplejwt
+pillow
+stripe
+django-filter==25.1
+paypalrestsdk==1.13.3
+channels==4.2.0 
+channels-redis==4.2.1
+notifications==0.3.2
+
+# User Authentication (JWT Login, Registration, Logout) Pending
+# Product APIs (List, Create, Update, Delete, Filter) Pending
+# Cart APIs Pending
+# Order APIs Pending
+# Payment Gateway Integration (Stripe, PayPal) Pending
