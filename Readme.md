@@ -50,5 +50,5 @@ A full-fledged e-commerce platform with user authentication, product management,
 ## ⚙️ **Setup & Installation**
 ### 1️⃣ Clone the Repository:
 ```bash
-git clone https://github.com/Abidanik86/ecommerce-platform.git
+git clone https://github.com/Abidanik86/django-ecommerce.git
 cd ecommerce-platform
